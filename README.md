@@ -17,7 +17,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 * Python basics
 * Setting up our environments with pip and virtualenv
 
-#### 1 HOMEWORK
+#### WEEK 1 HOMEWORK
 * Critique a website by altering it's content using Chrome/Firefox developer tools. Save a screenshot and post to your blog.
 * Readings:
 	* [Manifesto of the Communist Party](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
@@ -54,7 +54,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 	* Mongo
 	* SQL
 
-####WEEK 3 HOMEWORK
+#### WEEK 3 HOMEWORK
 * Readings:
 	* [How to be a Communist](http://www.wikihow.com/Be-a-Communist)
 	* [Fuck Off Google](https://events.ccc.de/congress/2014/Fahrplan/system/attachments/2530/original/fuckoffgoogleeng.pdf)
@@ -72,7 +72,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 	* moviepy
 
 	
-####WEEK 4 HOMEWORK
+#### WEEK 4 HOMEWORK
 * Readings:
 	* [On Violence](http://abahlali.org/files/On_Violence.pdf)
 
@@ -83,7 +83,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 * Running a bot
 * Using and abusing APIs
 
-####WEEK 5 HOMEWORK
+#### WEEK 5 HOMEWORK
 * Readings:
 	* [Caliban and the Witch](https://libcom.org/files/Caliban%20and%20the%20Witch.pdf) (chapter one)
 * **Project (due on week 7):**
@@ -101,9 +101,9 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 * Putting your work on the web
 	* Backend with Flask
 	* Frontend with vue.js
-* TBD
+* More TBD
 
-####WEEK 6 HOMEWORK
+#### WEEK 6 HOMEWORK
 * Readings:
 	* [Understanding Patriarchy](http://imaginenoborders.org/pdf/zines/UnderstandingPatriarchy.pdf)
 
