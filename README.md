@@ -105,6 +105,6 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ### Week 7
 * Final presentations
-	* You can present **any one** the project that you worked during the semester. However if you choose something you did early on, please show that you've continued to improve/iterate on the project.
+	* You can present **any one** project that you worked during the semester. However if you choose something you did early on, please show that you've continued to improve/iterate on the project.
 * Celebratory drinks at lame bar (whoever is richest pays for everyone)
 * Deal final, resounding blow to late capitalism & build new society in its ruins
