@@ -19,7 +19,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 #### 1 HOMEWORK
 * Critique a website by altering it's content using Chrome/Firefox developer tools. Save a screenshot and post to your blog.
-* Read:
+* Readings:
 	* [Manifesto of the Communist Party](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
 	* [A User’s Guide to Détournement](http://www.bopsecrets.org/SI/detourn.htm)
 	* (optional) Watch "Dumb Starbucks"
@@ -34,7 +34,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 * Manipulating text
 
 ####WEEK 2 HOMEWORK
-* Read:
+* Readings:
 	* [A Hacker Manifesto](http://www.neme.org/texts/hacker-manifesto)
 	* [How to write satire about current events](http://www.wikihow.com/Write-Satire-About-Current-Events)
 * **Project (due next class): Make a web scraper, and then create a list with the material you collect.**
@@ -55,7 +55,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 	* SQL
 
 ####WEEK 3 HOMEWORK
-* Read
+* Readings:
 	* [How to be a Communist](http://www.wikihow.com/Be-a-Communist)
 	* [Fuck Off Google](https://events.ccc.de/congress/2014/Fahrplan/system/attachments/2530/original/fuckoffgoogleeng.pdf)
 * **Project (due on week 5) - pick one:**
@@ -73,7 +73,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 	
 ####WEEK 4 HOMEWORK
-* Read
+* Readings:
 	* [On Violence](http://abahlali.org/files/On_Violence.pdf)
 
 ***
@@ -84,7 +84,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 * Using and abusing APIs
 
 ####WEEK 5 HOMEWORK
-* Readings
+* Readings:
 	* [Caliban and the Witch](https://libcom.org/files/Caliban%20and%20the%20Witch.pdf)
 * **Project (due on week 7):**
 	* Create a project that automatically manipulates or generates video
@@ -98,7 +98,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 * TBD
 
 ####WEEK 6 HOMEWORK
-* Readings
+* Readings:
 	* [Understanding Patriarchy](http://imaginenoborders.org/pdf/zines/UnderstandingPatriarchy.pdf)
 
 ***
