@@ -7,7 +7,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ## Schedule
 
-### Week 1
+### Week 1 - Jan 26
 * Intro & ground rules
 * HTML/CSS basics
  	* Tags, attributes, classes, ids, css selectors
@@ -27,7 +27,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ***
  
-### Week 2
+### Week 2 - Feb 2 
 * More on Python
 * Web scraping with Beautiful Soup
 * Creating and parsing JSON and CSV files
@@ -43,7 +43,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ***
 
-### Week 3
+### Week 3 - Feb 9
 * First assignment due
 	* Brief presentations
 * AJAX and how to deal with it
@@ -64,7 +64,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ***
 
-### Week 4
+### Week 4 - Feb 16
 * Web scraping with Scrapy
 * Manipulating video on the command line
 	* youtube-dl
@@ -78,7 +78,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ***
 
-### Week 5
+### Week 5 - Feb 23
 * Second assignment due
 * Running a bot
 * Using and abusing APIs
@@ -88,11 +88,15 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 	* [Caliban and the Witch](https://libcom.org/files/Caliban%20and%20the%20Witch.pdf) (chapter one)
 * **Project (due on week 7):**
 	* Create a project that automatically manipulates or generates video
-	
+
+***
+
+### OPTIONAL TEMPORARY AUTONOMOUS WEEK 5.5 - Feb 25
+* Stupid Shit No One Needs & Terrible Ideas Hackathon
 	
 ***
 
-### Week 6
+### Week 6 - Mar 2
 * Creating your own API/service
 * Presenting your work on the web
 * TBD
@@ -103,7 +107,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ***
 
-### Week 7
+### Week 7 - Mar 9
 * Final presentations
 	* You can present **any one** project that you worked during the semester. However if you choose something you did early on, please show that you've continued to improve/iterate on the project.
 * Celebratory drinks at lame bar (whoever is richest pays for everyone)
