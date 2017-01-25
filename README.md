@@ -98,7 +98,9 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ### Week 6 - Mar 2
 * Creating your own API/service
-* Presenting your work on the web
+* Putting your work on the web
+	* Backend with Flask
+	* Frontend with vue.js
 * TBD
 
 ####WEEK 6 HOMEWORK
