@@ -1,5 +1,5 @@
 # Detourning the Web
-**ITP/NYU, Spring 2017**
+**ITP/NYU - Spring 2017 - Thursdays from 6:30pm to 9:00pm**
 
 Detournement is the practice of "hijacking" cultural or artistic materials and reusing them to produce new works that both counter and explicate the original intent or ideology of the source material. In this class students will learn how to scrape massive quantities of material from the internet with Python, and then use that material to make satirical, critical and political projects. Each week we will cover a different web scraping technique, with production assignments relating to text, image and video.
 
