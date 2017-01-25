@@ -37,11 +37,9 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 * Read:
 	* [A Hacker Manifesto](http://www.neme.org/texts/hacker-manifesto)
 	* [How to write satire about current events](http://www.wikihow.com/Write-Satire-About-Current-Events)
-* **Project (due next class): [Make a web scraper, and then create an index of the material you scrape.] Create a list from material you scrape online.**
+* **Project (due next class): Make a web scraper, and then create a list with the material you collect.**
  	* Your list should be text only.
-	* Your list should have a title.
 	* You can present your list in any way you want (for example: print it on roll paper, make a physical book, make a website, twitter bot, project it, recite it, etc)
-	* Examples....
 
 ***
 
@@ -50,6 +48,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 	* Brief presentations
 * AJAX and how to deal with it
 * Web scraping with Selenium
+* Downloading files
 * Manipulating images with Python
 * Brief intro to databases
 	* Mongo
@@ -105,5 +104,5 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ### Week 7
 * Final presentations
-* Drinks (whoever is richest pays for everyone)
+* Celebratory drinks at lame bar (whoever is richest pays for everyone)
 * Deal final, resounding blow to late capitalism & build new society in its ruins
