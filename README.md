@@ -92,7 +92,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 ***
 
 ### OPTIONAL TEMPORARY AUTONOMOUS WEEK 5.5 - Feb 25
-* Stupid Shit No One Needs & Terrible Ideas Hackathon
+* [Stupid Shit No One Needs & Terrible Ideas Hackathon](http://stupidhackathon.com)
 	
 ***
 
