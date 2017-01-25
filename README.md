@@ -85,7 +85,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ####WEEK 5 HOMEWORK
 * Readings:
-	* [Caliban and the Witch](https://libcom.org/files/Caliban%20and%20the%20Witch.pdf)
+	* [Caliban and the Witch](https://libcom.org/files/Caliban%20and%20the%20Witch.pdf) (chapter one)
 * **Project (due on week 7):**
 	* Create a project that automatically manipulates or generates video
 	
