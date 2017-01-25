@@ -19,7 +19,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ####WEEK 1 HOMEWORK
 * Critique a website by altering it's content using Chrome/Firefox developer tools. Save a screenshot and post to your blog.
-* Readings:
+* Read:
 	* [Manifesto of the Communist Party](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
 	* [A User’s Guide to Détournement](http://www.bopsecrets.org/SI/detourn.htm)
 	* (optional) Watch "Dumb Starbucks"
@@ -34,9 +34,9 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 * Manipulating text
 
 ####WEEK 2 HOMEWORK
-* Readings:
-	* Silvia Federici
-	* McKenzie Wark
+* Read:
+	* [A Hacker Manifesto](http://www.neme.org/texts/hacker-manifesto)
+	* [How to write satire about current events](http://www.wikihow.com/Write-Satire-About-Current-Events)
 * **Project (due next class): [Make a web scraper, and then create an index of the material you scrape.] Create a list from material you scrape online.**
  	* Your list should be text only.
 	* Your list should have a title.
@@ -56,8 +56,10 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 	* SQL
 
 ####WEEK 3 HOMEWORK
-* Readings (TBD)
-* Project (due on week 5) - pick one: 
+* Read
+	* [How to be a Communist](http://www.wikihow.com/Be-a-Communist)
+	* [Fuck Off Google](https://events.ccc.de/congress/2014/Fahrplan/system/attachments/2530/original/fuckoffgoogleeng.pdf)
+* **Project (due on week 5) - pick one:**
 	* Create a script that acts on your behalf online.
 	* Create a system that automatically manipulates images found online. 
 
@@ -69,6 +71,11 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 	* youtube-dl
 	* moviepy
 
+	
+##### WEEK 4 HOMEWORK
+* Read
+	* [On Violence](http://abahlali.org/files/On_Violence.pdf)
+
 ***
 
 ### Week 5
@@ -77,15 +84,22 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 * Using and abusing APIs
 
 ####WEEK 5 HOMEWORK
-* Readings (TBD)
-* Project (due on week 7):
+* Readings
+	* [Caliban and the Witch](https://libcom.org/files/Caliban%20and%20the%20Witch.pdf)
+* **Project (due on week 7):**
 	* Create a project that automatically manipulates or generates video
 	
 	
 ***
 
 ### Week 6
-* ?????????
+* Creating your own API/service
+* Presenting your work on the web
+* TBD
+
+####WEEK 6 HOMEWORK
+* Readings
+	* TBD
 
 ***
 
