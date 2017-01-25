@@ -114,3 +114,31 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 	* You can present **any one** project that you worked during the semester. However if you choose something you did early on, please show that you've continued to improve/iterate on the project.
 * Celebratory drinks at lame bar (whoever is richest pays for everyone)
 * Deal final, resounding blow to late capitalism & build new society in its ruins
+
+*** 
+
+## Resources
+
+### Learning Python
+* Learn Python the Hard Way
+
+### Command Line
+* TBD
+
+### Scraping
+* Scrapy
+* Beautiful Soup
+* Selenium
+* Splinter
+
+### Image
+* PIL
+* ImageMagick
+
+### Audio
+* Sox
+* Pydub
+
+### Video
+* ffmpeg
+* moviepy
