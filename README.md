@@ -131,6 +131,12 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 * Selenium
 * Splinter
 
+### Text Parsing
+* Pattern
+* TextBlob
+* NLTK
+* SpaCy
+
 ### Image
 * PIL
 * ImageMagick
