@@ -17,7 +17,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 * Python basics
 * Setting up our environments with pip and virtualenv
 
-####WEEK 1 HOMEWORK
+#### 1 HOMEWORK
 * Critique a website by altering it's content using Chrome/Firefox developer tools. Save a screenshot and post to your blog.
 * Read:
 	* [Manifesto of the Communist Party](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
@@ -72,7 +72,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 	* moviepy
 
 	
-##### WEEK 4 HOMEWORK
+####WEEK 4 HOMEWORK
 * Read
 	* [On Violence](http://abahlali.org/files/On_Violence.pdf)
 
@@ -105,3 +105,5 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ### Week 7
 * Final presentations
+* Drinks (whoever is richest pays for everyone)
+* Deal final, resounding blow to late capitalism & build new society in its ruins
