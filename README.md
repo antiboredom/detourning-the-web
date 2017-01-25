@@ -99,7 +99,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ####WEEK 6 HOMEWORK
 * Readings
-	* TBD
+	* [Understanding Patriarchy](http://imaginenoborders.org/pdf/zines/UnderstandingPatriarchy.pdf)
 
 ***
 
