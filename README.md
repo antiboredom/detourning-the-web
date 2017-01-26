@@ -120,31 +120,34 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 ## Resources
 
 ### Learning Python
-* Learn Python the Hard Way
+* [Learn Python The Hard Way by Zed Shaw](https://learnpythonthehardway.org/book/) (not actually hard)
 
 ### Command Line
-* TBD
+* [Intro to Unix by Allison Parrish](http://www.decontextualize.com/teaching/rwet/introduction-and-unix-tutorial/)
+* [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
 
 ### Scraping
-* Scrapy
-* Beautiful Soup
-* Selenium
-* Splinter
+* [Really nice web scraping tutorial](https://first-web-scraper.readthedocs.io/en/latest/)
+* [Web Scraping from "Automate the Boring Stuff"](https://automatetheboringstuff.com/chapter11/)
+* [Scrapy](https://scrapy.org/)
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
+* [Selenium](http://selenium-python.readthedocs.io/)
+* [Splinter](http://splinter.readthedocs.io/en/latest/index.html)
 
 ### Text Parsing
-* Pattern
-* TextBlob
-* NLTK
-* SpaCy
+* [Pattern](http://www.clips.ua.ac.be/pages/pattern-en)
+* [TextBlob](https://textblob.readthedocs.io/)
+* [NLTK](http://www.nltk.org/)
+* [SpaCy](https://spacy.io/)
 
 ### Image
-* PIL
-* ImageMagick
+* [Pillow](https://pillow.readthedocs.io/en/4.0.x/)
+* [ImageMagick](https://www.imagemagick.org/script/index.php)
 
 ### Audio
-* Sox
-* Pydub
+* [Sox](http://sox.sourceforge.net/)
+* [Pydub](http://pydub.com/)
 
 ### Video
-* ffmpeg
-* moviepy
+* [ffmpeg](https://ffmpeg.org/)
+* [moviepy](http://zulko.github.io/moviepy/)
