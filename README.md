@@ -14,12 +14,15 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
  	* Tags, attributes, classes, ids, css selectors
 * Using Chrome/Firefox developer tools
 	* the DOM: what it is and how to modify it
+* In class excersize!	
+	* Critique a website by altering it's content using Chrome/Firefox developer tools. Save a screenshot.
 * Command line basics
 * Python basics
 * Setting up our environments with pip and virtualenv
+* Intro to web scraping with Beautiful Soup
 
 #### WEEK 1 HOMEWORK
-* Critique a website by altering it's content using Chrome/Firefox developer tools. Save a screenshot and post to your blog.
+* Write a simple web scraper that grabs text from a page or series of pages and saves it to a file.
 * Readings:
 	* [Manifesto of the Communist Party](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
 	* [A User’s Guide to Détournement](http://www.bopsecrets.org/SI/detourn.htm)
@@ -30,7 +33,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
  
 ### Week 2 - Feb 2 
 * More on Python
-* Web scraping with Beautiful Soup
+* More web scraping with Beautiful Soup
 * Creating and parsing JSON and CSV files
 * Manipulating text
 
@@ -38,7 +41,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 * Readings:
 	* [A Hacker Manifesto](http://www.neme.org/texts/hacker-manifesto)
 	* [How to write satire about current events](http://www.wikihow.com/Write-Satire-About-Current-Events)
-* **Project (due next class): Make a web scraper, and then create a list with the material you collect.**
+* **Project (due next class): Scrape the web, and then create a list with the material you collect.**
  	* Your list should be text only.
 	* You can present your list in any way you want (for example: print it on roll paper, make a physical book, make a website, twitter bot, project it, recite it, etc)
 
