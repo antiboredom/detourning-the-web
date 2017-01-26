@@ -117,6 +117,15 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 *** 
 
+## Grading/Expectations
+
+* Each of the three main projects is worth 25% of your grade, and class participation is 25%.
+* More than one unexcused absense is grounds for failure :(
+* But no one will fail.
+* Close your laptops when others are presenting their work.
+
+***
+
 ## Resources
 
 ### Learning Python
