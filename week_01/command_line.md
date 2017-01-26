@@ -67,3 +67,12 @@ Direct output with ```>```
 grep "whale" mobydick.txt > whales.txt
 ```
 
+Sort a text file alphabetically
+```
+sort FILENAME
+```
+
+Get help with the ```man``` (manual) command
+```
+man COMMAND
+```
