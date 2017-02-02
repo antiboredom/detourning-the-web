@@ -32,6 +32,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 ***
  
 ### Week 2 - Feb 2 
+* [opening video](https://www.youtube.com/watch?v=Id3G5UOl9lg)
 * More on Python
 * More web scraping with Beautiful Soup
 * Creating and parsing JSON and CSV files
@@ -48,6 +49,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 ***
 
 ### Week 3 - Feb 9
+* [opening video](https://www.youtube.com/watch?v=nbiEfr5FxEA)
 * First assignment due
 	* Brief presentations
 * AJAX and how to deal with it
