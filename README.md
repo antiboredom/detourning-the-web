@@ -70,7 +70,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ***
 
-### Week 4 - Feb 16
+### Week 4 - Feb 23
 * Web scraping with Scrapy
 * Manipulating video on the command line
 	* youtube-dl
@@ -84,7 +84,13 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ***
 
-### Week 5 - Feb 23
+### OPTIONAL TEMPORARY AUTONOMOUS WEEK 4.5 - Feb 25
+* [Stupid Shit No One Needs & Terrible Ideas Hackathon](http://stupidhackathon.com)
+	
+***
+
+
+### Week 5 - Mar 2
 * Second assignment due
 * Running a bot
 * Using and abusing APIs
@@ -97,12 +103,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ***
 
-### OPTIONAL TEMPORARY AUTONOMOUS WEEK 5.5 - Feb 25
-* [Stupid Shit No One Needs & Terrible Ideas Hackathon](http://stupidhackathon.com)
-	
-***
-
-### Week 6 - Mar 2
+### Week 6 - Mar 9
 * Creating your own API/service
 * Putting your work on the web
 	* Backend with Flask
@@ -115,7 +116,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ***
 
-### Week 7 - Mar 9
+### Week 7 - Mar 23
 * Final presentations
 	* You can present **any one** project that you worked during the semester. However if you choose something you did early on, please show that you've continued to improve/iterate on the project.
 * Celebratory drinks at lame bar (whoever is richest pays for everyone)
