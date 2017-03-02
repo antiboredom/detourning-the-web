@@ -98,7 +98,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 * Readings:
 	* [Caliban and the Witch](https://libcom.org/files/Caliban%20and%20the%20Witch.pdf) (chapter one)
 * Make a video using python
-* Come in with an idea for your final project
+* Come in with an idea for your final project to be discussed on Mar 9
 
 ***
 
@@ -108,6 +108,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 #### WEEK 6 HOMEWORK
 * Readings:
 	* [Understanding Patriarchy](http://imaginenoborders.org/pdf/zines/UnderstandingPatriarchy.pdf)
+* Final project will be due on Mar 23rd
 
 ***
 
