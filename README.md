@@ -54,11 +54,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 	* Brief presentations
 * AJAX and how to deal with it
 * Web scraping with Selenium
-* Downloading files
 * Manipulating images with Python
-* Brief intro to databases
-	* Mongo
-	* SQL
 
 #### WEEK 3 HOMEWORK
 * Readings:
@@ -71,7 +67,11 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 ***
 
 ### Week 4 - Feb 23
-* Web scraping with Scrapy
+* Downloading images
+* Manipulating images
+	* imagemagick
+	* Pillow
+* Calling external commands using subprocess.call
 * Manipulating video on the command line
 	* youtube-dl
 	* ffmpeg
@@ -92,23 +92,18 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ### Week 5 - Mar 2
 * Second assignment due
-* Running a bot
-* Using and abusing APIs
+* More on video
 
 #### WEEK 5 HOMEWORK
 * Readings:
 	* [Caliban and the Witch](https://libcom.org/files/Caliban%20and%20the%20Witch.pdf) (chapter one)
-* **Project (due on week 7):**
-	* Create a project that automatically manipulates or generates video
+* Make a video using python
+* Come in with an idea for your final project
 
 ***
 
 ### Week 6 - Mar 9
-* Creating your own API/service
-* Putting your work on the web
-	* Backend with Flask
-	* Frontend with vue.js
-* More TBD
+* TBD based on what you all want to do
 
 #### WEEK 6 HOMEWORK
 * Readings:
