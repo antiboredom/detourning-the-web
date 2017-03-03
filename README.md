@@ -103,7 +103,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 ***
 
 ### Week 6 - Mar 9
-* TBD based on what you all want to do
+* We all make a sick video text-messaging bot
 
 #### WEEK 6 HOMEWORK
 * Readings:
