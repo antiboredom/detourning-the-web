@@ -104,6 +104,7 @@ Detournement is the practice of "hijacking" cultural or artistic materials and r
 
 ### Week 6 - Mar 9
 * We all make a sick video text-messaging bot
+* basic flask examples
 
 #### WEEK 6 HOMEWORK
 * Readings:
